@@ -1,0 +1,10 @@
+.venv
+gpt.ui
+setting.ini
+__pycache__
+key.key
+encrypt
+setting.ini
+prompts
+*.ui
+sourcecode
